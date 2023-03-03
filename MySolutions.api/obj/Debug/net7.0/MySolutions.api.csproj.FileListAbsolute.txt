@@ -31,3 +31,10 @@
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/obj/Debug/net7.0/MySolutions.api.pdb
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/obj/Debug/net7.0/MySolutions.api.genruntimeconfig.cache
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/obj/Debug/net7.0/ref/MySolutions.api.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/nlog.config
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/NLog.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/NLog.Extensions.Logging.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/MySolutions.Contracts.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/MySolutions.LoggerService.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/MySolutions.LoggerService.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/MySolutions.Contracts.pdb

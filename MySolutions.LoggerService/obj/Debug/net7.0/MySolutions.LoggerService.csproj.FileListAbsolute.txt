@@ -1,0 +1,15 @@
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/bin/Debug/net7.0/MySolutions.LoggerService.deps.json
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/bin/Debug/net7.0/MySolutions.LoggerService.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/bin/Debug/net7.0/MySolutions.LoggerService.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/bin/Debug/net7.0/MySolutions.Contracts.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/bin/Debug/net7.0/MySolutions.Contracts.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/obj/Debug/net7.0/MySolutions.LoggerService.csproj.AssemblyReference.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/obj/Debug/net7.0/MySolutions.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/obj/Debug/net7.0/MySolutions.LoggerService.AssemblyInfoInputs.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/obj/Debug/net7.0/MySolutions.LoggerService.AssemblyInfo.cs
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/obj/Debug/net7.0/MySolutions.LoggerService.csproj.CoreCompileInputs.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/obj/Debug/net7.0/MySolutions.LoggerService.csproj.CopyComplete
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/obj/Debug/net7.0/MySolutions.LoggerService.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/obj/Debug/net7.0/refint/MySolutions.LoggerService.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/obj/Debug/net7.0/MySolutions.LoggerService.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/obj/Debug/net7.0/ref/MySolutions.LoggerService.dll

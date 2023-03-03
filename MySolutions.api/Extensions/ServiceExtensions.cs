@@ -1,4 +1,7 @@
 
+using MySolutions.Contracts;
+using MySolutions.LoggerService;
+
 namespace MySolutions.api.Extensions
 {
     public static class ServiceExtensions
@@ -17,5 +20,9 @@ namespace MySolutions.api.Extensions
                 {
 
                 });
+
+        public static void ConfigureLoggerService(this IServiceCollection services) =>
+            services.AddSingleton<ILoggerManager, LoggerManager>();
+
     }
 }

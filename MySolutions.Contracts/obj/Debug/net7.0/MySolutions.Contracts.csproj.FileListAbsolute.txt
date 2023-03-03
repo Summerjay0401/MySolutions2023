@@ -1,0 +1,12 @@
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/bin/Debug/net7.0/MySolutions.Contracts.deps.json
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/bin/Debug/net7.0/MySolutions.Contracts.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/bin/Debug/net7.0/MySolutions.Contracts.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/obj/Debug/net7.0/MySolutions.Contracts.csproj.AssemblyReference.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/obj/Debug/net7.0/MySolutions.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/obj/Debug/net7.0/MySolutions.Contracts.AssemblyInfoInputs.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/obj/Debug/net7.0/MySolutions.Contracts.AssemblyInfo.cs
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/obj/Debug/net7.0/MySolutions.Contracts.csproj.CoreCompileInputs.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/obj/Debug/net7.0/MySolutions.Contracts.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/obj/Debug/net7.0/refint/MySolutions.Contracts.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/obj/Debug/net7.0/MySolutions.Contracts.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/obj/Debug/net7.0/ref/MySolutions.Contracts.dll
