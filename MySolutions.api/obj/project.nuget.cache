@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3mDVULS8L0gAZ7yWdSze/ZGswIUdr4XYx6Zeq6bsGyv6nrua/mOPw0fYyg7LKGSr0Xu4+L66SIyFqcaDMx16VQ==",
+  "success": true,
+  "projectFilePath": "/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/MySolutions.api.csproj",
+  "expectedPackageFiles": [
+    "/Users/rjrimorin/.nuget/packages/microsoft.aspnetcore.openapi/7.0.3/microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "/Users/rjrimorin/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/rjrimorin/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/rjrimorin/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/rjrimorin/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/rjrimorin/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/rjrimorin/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
