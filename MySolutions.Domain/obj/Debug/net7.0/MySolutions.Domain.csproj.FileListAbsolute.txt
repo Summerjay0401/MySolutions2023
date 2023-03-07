@@ -1,0 +1,12 @@
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/bin/Debug/net7.0/MySolutions.Domain.deps.json
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/bin/Debug/net7.0/MySolutions.Domain.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/bin/Debug/net7.0/MySolutions.Domain.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/obj/Debug/net7.0/MySolutions.Domain.csproj.AssemblyReference.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/obj/Debug/net7.0/MySolutions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/obj/Debug/net7.0/MySolutions.Domain.AssemblyInfoInputs.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/obj/Debug/net7.0/MySolutions.Domain.AssemblyInfo.cs
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/obj/Debug/net7.0/MySolutions.Domain.csproj.CoreCompileInputs.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/obj/Debug/net7.0/MySolutions.Domain.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/obj/Debug/net7.0/refint/MySolutions.Domain.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/obj/Debug/net7.0/MySolutions.Domain.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/obj/Debug/net7.0/ref/MySolutions.Domain.dll

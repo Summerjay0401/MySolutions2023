@@ -1,0 +1,15 @@
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/bin/Debug/net7.0/MySolutions.Repository.deps.json
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/bin/Debug/net7.0/MySolutions.Repository.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/bin/Debug/net7.0/MySolutions.Repository.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/bin/Debug/net7.0/MySolutions.Domain.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/bin/Debug/net7.0/MySolutions.Domain.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/obj/Debug/net7.0/MySolutions.Repository.csproj.AssemblyReference.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/obj/Debug/net7.0/MySolutions.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/obj/Debug/net7.0/MySolutions.Repository.AssemblyInfoInputs.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/obj/Debug/net7.0/MySolutions.Repository.AssemblyInfo.cs
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/obj/Debug/net7.0/MySolutions.Repository.csproj.CoreCompileInputs.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/obj/Debug/net7.0/MySolutions.Repository.csproj.CopyComplete
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/obj/Debug/net7.0/MySolutions.Repository.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/obj/Debug/net7.0/refint/MySolutions.Repository.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/obj/Debug/net7.0/MySolutions.Repository.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/obj/Debug/net7.0/ref/MySolutions.Repository.dll
