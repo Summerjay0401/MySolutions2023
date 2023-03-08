@@ -1,10 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using MySolutions.Domain.Entities;
-using MySolutions.Repository;
+using MySolutions.Repository.Configuration;
 
 namespace MySolutions.Repository
 {
@@ -13,6 +9,12 @@ namespace MySolutions.Repository
         public RepositoryContext(DbContextOptions options)
             : base(options)
         { }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new CompanyConfiguration());
+            modelBuilder.ApplyConfiguration(new EmployeeConfiguration());
+        }
         public DbSet<Company>? Companies { get; set; }
         public DbSet<Employee>? Employees { get; set; }
     }
