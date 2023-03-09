@@ -1211,9 +1211,22 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "MySolutions.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MySolutions.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MySolutions.Domain.dll": {}
+        }
+      },
       "MySolutions.Service.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "MySolutions.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MySolutions.Service.Contracts.dll": {}
         },
@@ -4061,6 +4074,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "MySolutions.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MySolutions.Domain/MySolutions.Domain.csproj",
+      "msbuildProject": "../MySolutions.Domain/MySolutions.Domain.csproj"
+    },
     "MySolutions.Service.Contracts/1.0.0": {
       "type": "project",
       "path": "../MySolutions.Service.Contracts/MySolutions.Service.Contracts.csproj",
@@ -4070,6 +4088,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.AspNetCore.Mvc.Core >= 2.2.5",
+      "MySolutions.Domain >= 1.0.0",
       "MySolutions.Service.Contracts >= 1.0.0"
     ]
   },
@@ -4098,6 +4117,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/MySolutions.Domain.csproj": {
+              "projectPath": "/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/MySolutions.Domain.csproj"
+            },
             "/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service.Contracts/MySolutions.Service.Contracts.csproj": {
               "projectPath": "/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service.Contracts/MySolutions.Service.Contracts.csproj"
             }

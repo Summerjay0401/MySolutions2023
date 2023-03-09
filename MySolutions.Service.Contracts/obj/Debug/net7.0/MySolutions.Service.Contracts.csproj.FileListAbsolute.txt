@@ -10,3 +10,6 @@
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service.Contracts/obj/Debug/net7.0/refint/MySolutions.Service.Contracts.dll
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service.Contracts/obj/Debug/net7.0/MySolutions.Service.Contracts.pdb
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service.Contracts/obj/Debug/net7.0/ref/MySolutions.Service.Contracts.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service.Contracts/bin/Debug/net7.0/MySolutions.Domain.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service.Contracts/bin/Debug/net7.0/MySolutions.Domain.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service.Contracts/obj/Debug/net7.0/MySolutions.Service.Contracts.csproj.CopyComplete

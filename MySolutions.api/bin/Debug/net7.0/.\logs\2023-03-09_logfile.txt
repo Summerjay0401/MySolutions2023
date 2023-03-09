@@ -1,0 +1,15 @@
+2023-03-09 17:39:57.7439 ERROR Something went wrong in the GetAllCompanies service method System.NotImplementedException: The method or operation is not implemented.
+   at MySolutions.Repository.RepositoryManager.MySolutions.Contracts.IRepositoryManager.get_Company() in /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/RepositoryManager.cs:line 21
+   at MySolutions.Service.CompanyService.GetAllCompanies(Boolean trackChanges) in /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/CompanyService.cs:line 21
+2023-03-09 17:40:02.3174 ERROR Something went wrong in the GetAllCompanies service method System.NotImplementedException: The method or operation is not implemented.
+   at MySolutions.Repository.RepositoryManager.MySolutions.Contracts.IRepositoryManager.get_Company() in /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/RepositoryManager.cs:line 21
+   at MySolutions.Service.CompanyService.GetAllCompanies(Boolean trackChanges) in /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/CompanyService.cs:line 21
+2023-03-09 17:40:09.9364 ERROR Something went wrong in the GetAllCompanies service method System.NotImplementedException: The method or operation is not implemented.
+   at MySolutions.Repository.RepositoryManager.MySolutions.Contracts.IRepositoryManager.get_Company() in /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/RepositoryManager.cs:line 21
+   at MySolutions.Service.CompanyService.GetAllCompanies(Boolean trackChanges) in /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/CompanyService.cs:line 21
+2023-03-09 17:40:10.9747 ERROR Something went wrong in the GetAllCompanies service method System.NotImplementedException: The method or operation is not implemented.
+   at MySolutions.Repository.RepositoryManager.MySolutions.Contracts.IRepositoryManager.get_Company() in /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/RepositoryManager.cs:line 21
+   at MySolutions.Service.CompanyService.GetAllCompanies(Boolean trackChanges) in /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/CompanyService.cs:line 21
+2023-03-09 17:45:08.3313 ERROR Something went wrong in the GetAllCompanies service method System.NotImplementedException: The method or operation is not implemented.
+   at MySolutions.Repository.RepositoryManager.MySolutions.Contracts.IRepositoryManager.get_Company() in /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/RepositoryManager.cs:line 21
+   at MySolutions.Service.CompanyService.GetAllCompanies(Boolean trackChanges) in /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/CompanyService.cs:line 21

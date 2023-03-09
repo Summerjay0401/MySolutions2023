@@ -13,3 +13,5 @@
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/obj/Debug/net7.0/refint/MySolutions.LoggerService.dll
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/obj/Debug/net7.0/MySolutions.LoggerService.pdb
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/obj/Debug/net7.0/ref/MySolutions.LoggerService.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/bin/Debug/net7.0/MySolutions.Domain.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.LoggerService/bin/Debug/net7.0/MySolutions.Domain.pdb

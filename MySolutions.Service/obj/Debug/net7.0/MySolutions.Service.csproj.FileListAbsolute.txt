@@ -15,3 +15,5 @@
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/obj/Debug/net7.0/refint/MySolutions.Service.dll
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/obj/Debug/net7.0/MySolutions.Service.pdb
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/obj/Debug/net7.0/ref/MySolutions.Service.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/bin/Debug/net7.0/MySolutions.Domain.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/bin/Debug/net7.0/MySolutions.Domain.pdb

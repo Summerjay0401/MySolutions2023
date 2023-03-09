@@ -25,7 +25,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/MySolutions.Domain.csproj": {
+                "projectPath": "/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/MySolutions.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

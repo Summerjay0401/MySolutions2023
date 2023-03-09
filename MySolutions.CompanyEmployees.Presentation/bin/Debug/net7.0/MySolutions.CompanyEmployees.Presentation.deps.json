@@ -9,6 +9,7 @@
       "MySolutions.CompanyEmployees.Presentation/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "MySolutions.Domain": "1.0.0",
           "MySolutions.Service.Contracts": "1.0.0"
         },
         "runtime": {
@@ -736,7 +737,15 @@
           "System.Xml.ReaderWriter": "4.0.11"
         }
       },
+      "MySolutions.Domain/1.0.0": {
+        "runtime": {
+          "MySolutions.Domain.dll": {}
+        }
+      },
       "MySolutions.Service.Contracts/1.0.0": {
+        "dependencies": {
+          "MySolutions.Domain": "1.0.0"
+        },
         "runtime": {
           "MySolutions.Service.Contracts.dll": {}
         }
@@ -1259,6 +1268,11 @@
       "sha512": "sha512-Mk2mKmPi0nWaoiYeotq1dgeNK1fqWh61+EK+w4Wu8SWuTYLzpUnschb59bJtGywaPq7SmTuPf44wrXRwbIrukg==",
       "path": "system.xml.xdocument/4.0.11",
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
+    },
+    "MySolutions.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "MySolutions.Service.Contracts/1.0.0": {
       "type": "project",

@@ -9,6 +9,7 @@
       "MySolutions.Service/1.0.0": {
         "dependencies": {
           "MySolutions.Contracts": "1.0.0",
+          "MySolutions.Domain": "1.0.0",
           "MySolutions.Service.Contracts": "1.0.0"
         },
         "runtime": {
@@ -16,11 +17,22 @@
         }
       },
       "MySolutions.Contracts/1.0.0": {
+        "dependencies": {
+          "MySolutions.Domain": "1.0.0"
+        },
         "runtime": {
           "MySolutions.Contracts.dll": {}
         }
       },
+      "MySolutions.Domain/1.0.0": {
+        "runtime": {
+          "MySolutions.Domain.dll": {}
+        }
+      },
       "MySolutions.Service.Contracts/1.0.0": {
+        "dependencies": {
+          "MySolutions.Domain": "1.0.0"
+        },
         "runtime": {
           "MySolutions.Service.Contracts.dll": {}
         }
@@ -34,6 +46,11 @@
       "sha512": ""
     },
     "MySolutions.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySolutions.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

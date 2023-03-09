@@ -120,8 +120,16 @@
       },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
       "MySolutions.Contracts/1.0.0": {
+        "dependencies": {
+          "MySolutions.Domain": "1.0.0"
+        },
         "runtime": {
           "MySolutions.Contracts.dll": {}
+        }
+      },
+      "MySolutions.Domain/1.0.0": {
+        "runtime": {
+          "MySolutions.Domain.dll": {}
         }
       }
     }
@@ -210,6 +218,11 @@
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
     "MySolutions.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySolutions.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

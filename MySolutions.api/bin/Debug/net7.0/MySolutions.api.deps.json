@@ -841,6 +841,7 @@
       "MySolutions.CompanyEmployees.Presentation/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "MySolutions.Domain": "1.0.0",
           "MySolutions.Service.Contracts": "1.0.0"
         },
         "runtime": {
@@ -848,6 +849,9 @@
         }
       },
       "MySolutions.Contracts/1.0.0": {
+        "dependencies": {
+          "MySolutions.Domain": "1.0.0"
+        },
         "runtime": {
           "MySolutions.Contracts.dll": {}
         }
@@ -879,6 +883,7 @@
       "MySolutions.Service/1.0.0": {
         "dependencies": {
           "MySolutions.Contracts": "1.0.0",
+          "MySolutions.Domain": "1.0.0",
           "MySolutions.Service.Contracts": "1.0.0"
         },
         "runtime": {
@@ -886,6 +891,9 @@
         }
       },
       "MySolutions.Service.Contracts/1.0.0": {
+        "dependencies": {
+          "MySolutions.Domain": "1.0.0"
+        },
         "runtime": {
           "MySolutions.Service.Contracts.dll": {}
         }
