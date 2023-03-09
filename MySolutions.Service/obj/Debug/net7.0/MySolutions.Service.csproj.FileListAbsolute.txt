@@ -1,0 +1,17 @@
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/bin/Debug/net7.0/MySolutions.Service.deps.json
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/bin/Debug/net7.0/MySolutions.Service.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/bin/Debug/net7.0/MySolutions.Service.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/bin/Debug/net7.0/MySolutions.Contracts.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/bin/Debug/net7.0/MySolutions.Service.Contracts.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/bin/Debug/net7.0/MySolutions.Service.Contracts.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/bin/Debug/net7.0/MySolutions.Contracts.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/obj/Debug/net7.0/MySolutions.Service.csproj.AssemblyReference.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/obj/Debug/net7.0/MySolutions.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/obj/Debug/net7.0/MySolutions.Service.AssemblyInfoInputs.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/obj/Debug/net7.0/MySolutions.Service.AssemblyInfo.cs
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/obj/Debug/net7.0/MySolutions.Service.csproj.CoreCompileInputs.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/obj/Debug/net7.0/MySolutions.Service.csproj.CopyComplete
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/obj/Debug/net7.0/MySolutions.Service.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/obj/Debug/net7.0/refint/MySolutions.Service.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/obj/Debug/net7.0/MySolutions.Service.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Service/obj/Debug/net7.0/ref/MySolutions.Service.dll

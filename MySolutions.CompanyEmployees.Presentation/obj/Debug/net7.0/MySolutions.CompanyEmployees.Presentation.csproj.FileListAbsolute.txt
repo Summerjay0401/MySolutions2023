@@ -1,0 +1,15 @@
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/bin/Debug/net7.0/MySolutions.CompanyEmployees.Presentation.deps.json
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/bin/Debug/net7.0/MySolutions.CompanyEmployees.Presentation.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/bin/Debug/net7.0/MySolutions.CompanyEmployees.Presentation.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/bin/Debug/net7.0/MySolutions.Service.Contracts.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/bin/Debug/net7.0/MySolutions.Service.Contracts.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/obj/Debug/net7.0/MySolutions.CompanyEmployees.Presentation.csproj.AssemblyReference.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/obj/Debug/net7.0/MySolutions.CompanyEmployees.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/obj/Debug/net7.0/MySolutions.CompanyEmployees.Presentation.AssemblyInfoInputs.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/obj/Debug/net7.0/MySolutions.CompanyEmployees.Presentation.AssemblyInfo.cs
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/obj/Debug/net7.0/MySolutions.CompanyEmployees.Presentation.csproj.CoreCompileInputs.cache
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/obj/Debug/net7.0/MySolutions.CompanyEmployees.Presentation.csproj.CopyComplete
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/obj/Debug/net7.0/MySolutions.CompanyEmployees.Presentation.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/obj/Debug/net7.0/refint/MySolutions.CompanyEmployees.Presentation.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/obj/Debug/net7.0/MySolutions.CompanyEmployees.Presentation.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.CompanyEmployees.Presentation/obj/Debug/net7.0/ref/MySolutions.CompanyEmployees.Presentation.dll

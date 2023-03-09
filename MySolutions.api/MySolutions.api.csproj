@@ -24,6 +24,7 @@
     <ProjectReference Include="..\MySolutions.Repository\MySolutions.Repository.csproj" />
     <ProjectReference Include="..\MySolutions.Service.Contracts\MySolutions.Service.Contracts.csproj" />
     <ProjectReference Include="..\MySolutions.Service\MySolutions.Service.csproj" />
+    <ProjectReference Include="..\MySolutions.CompanyEmployees.Presentation\MySolutions.CompanyEmployees.Presentation.csproj" />
   </ItemGroup>
 
 </Project>

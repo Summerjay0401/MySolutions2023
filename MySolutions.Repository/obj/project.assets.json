@@ -198,6 +198,16 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "MySolutions.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MySolutions.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MySolutions.Contracts.dll": {}
+        }
+      },
       "MySolutions.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -521,6 +531,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "MySolutions.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../MySolutions.Contracts/MySolutions.Contracts.csproj",
+      "msbuildProject": "../MySolutions.Contracts/MySolutions.Contracts.csproj"
+    },
     "MySolutions.Domain/1.0.0": {
       "type": "project",
       "path": "../MySolutions.Domain/MySolutions.Domain.csproj",
@@ -530,6 +545,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.EntityFrameworkCore >= 7.0.3",
+      "MySolutions.Contracts >= 1.0.0",
       "MySolutions.Domain >= 1.0.0"
     ]
   },
@@ -558,6 +574,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/MySolutions.Contracts.csproj": {
+              "projectPath": "/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Contracts/MySolutions.Contracts.csproj"
+            },
             "/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/MySolutions.Domain.csproj": {
               "projectPath": "/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Domain/MySolutions.Domain.csproj"
             }

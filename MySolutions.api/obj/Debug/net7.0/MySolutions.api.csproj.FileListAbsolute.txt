@@ -85,3 +85,9 @@
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/MySolutions.Repository.dll
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/MySolutions.Repository.pdb
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/MySolutions.Domain.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/MySolutions.CompanyEmployees.Presentation.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/MySolutions.Service.Contracts.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/MySolutions.Service.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/MySolutions.Service.Contracts.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/MySolutions.Service.pdb
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.api/bin/Debug/net7.0/MySolutions.CompanyEmployees.Presentation.pdb

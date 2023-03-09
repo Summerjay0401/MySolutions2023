@@ -13,3 +13,5 @@
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/obj/Debug/net7.0/refint/MySolutions.Repository.dll
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/obj/Debug/net7.0/MySolutions.Repository.pdb
 /Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/obj/Debug/net7.0/ref/MySolutions.Repository.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/bin/Debug/net7.0/MySolutions.Contracts.dll
+/Users/rjrimorin/Desktop/MySolutions2023/MySolutions2023/MySolutions.Repository/bin/Debug/net7.0/MySolutions.Contracts.pdb

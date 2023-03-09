@@ -9,6 +9,7 @@
       "MySolutions.Repository/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.3",
+          "MySolutions.Contracts": "1.0.0",
           "MySolutions.Domain": "1.0.0"
         },
         "runtime": {
@@ -126,6 +127,11 @@
           }
         }
       },
+      "MySolutions.Contracts/1.0.0": {
+        "runtime": {
+          "MySolutions.Contracts.dll": {}
+        }
+      },
       "MySolutions.Domain/1.0.0": {
         "runtime": {
           "MySolutions.Domain.dll": {}
@@ -215,6 +221,11 @@
       "sha512": "sha512-um1KU5kxcRp3CNuI8o/GrZtD4AIOXDk+RLsytjZ9QPok3ttLUelLKpilVPuaFT3TFjOhSibUAso0odbOaCDj3Q==",
       "path": "microsoft.extensions.primitives/7.0.0",
       "hashPath": "microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+    },
+    "MySolutions.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "MySolutions.Domain/1.0.0": {
       "type": "project",
